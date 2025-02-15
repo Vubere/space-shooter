@@ -7,7 +7,6 @@ C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.Generate
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.AssemblyInfoInputs.cache
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.AssemblyInfo.cs
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.csproj.CoreCompileInputs.cache
-C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.sourcelink.json
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.dll
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\refint\space-shooter.dll
 C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.pdb
