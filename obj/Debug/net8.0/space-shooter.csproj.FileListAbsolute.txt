@@ -1,0 +1,15 @@
+C:\Users\HP 430\c#projects\space-shooter\bin\Debug\net8.0\space-shooter.exe
+C:\Users\HP 430\c#projects\space-shooter\bin\Debug\net8.0\space-shooter.deps.json
+C:\Users\HP 430\c#projects\space-shooter\bin\Debug\net8.0\space-shooter.runtimeconfig.json
+C:\Users\HP 430\c#projects\space-shooter\bin\Debug\net8.0\space-shooter.dll
+C:\Users\HP 430\c#projects\space-shooter\bin\Debug\net8.0\space-shooter.pdb
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.AssemblyInfoInputs.cache
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.AssemblyInfo.cs
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.csproj.CoreCompileInputs.cache
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.sourcelink.json
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.dll
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\refint\space-shooter.dll
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.pdb
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\space-shooter.genruntimeconfig.cache
+C:\Users\HP 430\c#projects\space-shooter\obj\Debug\net8.0\ref\space-shooter.dll
